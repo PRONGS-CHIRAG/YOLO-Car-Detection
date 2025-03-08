@@ -28,8 +28,9 @@ pip install tensorflow numpy pandas scipy pillow matplotlib
 
 ## How to Run
 1. Clone this repository and navigate to the project directory.
-2. Open `Autonomous_driving_application_Car_detection.ipynb` in Jupyter Notebook.
-3. Run all cells to:
+2. In the repository clone the repository https://github.com/allanzelener/YAD2K/tree/master and move the files and subfolders to the main project directory.
+3. Open `Autonomous_driving_application_Car_detection.ipynb` in Jupyter Notebook.
+4. Run all cells to:
    - Load the YOLO model.
    - Preprocess images for detection.
    - Predict car locations.
